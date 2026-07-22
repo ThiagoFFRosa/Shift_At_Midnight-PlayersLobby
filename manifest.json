@@ -1,0 +1,9 @@
+{
+  "name": "ShiftAtMidnightMorePlayers",
+  "version_number": "0.5.0",
+  "website_url": "https://github.com/ThiagoFFRosa/Shift_At_Midnight-PlayersLobby",
+  "description": "Expands Shift At Midnight multiplayer lobbies beyond the original limit. 8-player lobbies are tested; 16-player mode is currently experimental.",
+  "dependencies": [
+    "BepInEx-BepInExPack_IL2CPP-6.0.755"
+  ]
+}

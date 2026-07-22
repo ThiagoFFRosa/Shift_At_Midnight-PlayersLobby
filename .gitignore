@@ -1,0 +1,44 @@
+# Build
+bin/
+obj/
+out/
+Release/
+Debug/
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+LogOutput.log
+ErrorLog.log
+ErrorLog.txt
+
+
+# Referências extraídas do jogo
+GameAssembly.dll
+Assembly-CSharp.dll
+Il2Cpp*.dll
+UnityEngine*.dll
+Unity*.dll
+Fusion*.dll
+Steamworks*.dll
+com.rlabrecque*.dll
+
+# Símbolos e temporários
+*.pdb
+*.tmp
+*.cache
+
+# Pacotes gerados
+*.zip
+
+# Sistema
+Thumbs.db
+.DS_Store
