@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shift At Midnight More Players
 
 A BepInEx IL2CPP mod that expands the multiplayer lobby size in **Shift At Midnight**.
@@ -129,3 +130,4 @@ It is not affiliated with, authorized by or endorsed by the developers or publis
 Shift At Midnight was not originally designed for multiplayer lobbies of this size. Larger lobbies may cause lag, instability, synchronization problems, connection failures or other unexpected behavior.
 
 Use the mod at your own risk. Multiplayer modifications may cause errors or become incompatible after game updates.
+=======
